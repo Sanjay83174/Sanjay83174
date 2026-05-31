@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanjay H L</h1>
 
-<!--
-**Sanjay83174/Sanjay83174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer | Java Developer | Cloud Computing Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 MCA Student  
+💻 Passionate about Full Stack Development  
+☁️ Interested in Cloud Computing and AI  
+🚀 Building scalable web applications  
+📚 Continuous learner
+
+---
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-orange)
+![React](https://img.shields.io/badge/React-blue)
+![NodeJS](https://img.shields.io/badge/NodeJS-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Firebase](https://img.shields.io/badge/Firebase-yellow)
+![Python](https://img.shields.io/badge/Python-blue)
+
+---
+
+## 📌 Featured Projects
+
+### Event Management System
+React • Node • PostgreSQL
+
+### Driver Drowsiness Detection
+Python • Deep Learning
+
+### Code Review System
+React • Firebase
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+YOUR_LINKEDIN_URL
+
+Email:
+YOUR_EMAIL
