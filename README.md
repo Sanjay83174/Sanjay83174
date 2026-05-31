@@ -91,13 +91,11 @@ React • Node.js • MySQL
 
 ---
 
-```md
 ## 📊 GitHub Stats
 
 ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay83174&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay83174&layout=compact)
-```
 
 ---
 
