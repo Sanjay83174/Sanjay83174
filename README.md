@@ -91,17 +91,13 @@ React • Node.js • MySQL
 
 ---
 
+```md
 ## 📊 GitHub Stats
 
-<p align="center">
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay83174&show_icons=true&theme=transparent)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay83174&show_icons=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay83174&layout=compact" />
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay83174&layout=compact)
+```
 
 ---
 
