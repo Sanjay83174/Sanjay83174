@@ -18,32 +18,34 @@ Full Stack Developer | Java Developer | Cloud Computing Enthusiast
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange)
-![React](https://img.shields.io/badge/React-blue)
-![NodeJS](https://img.shields.io/badge/NodeJS-green)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Firebase](https://img.shields.io/badge/Firebase-yellow)
-![Python](https://img.shields.io/badge/Python-blue)
+### Languages ![Java](https://img.shields.io/badge/Java-orange) ![Python](https://img.shields.io/badge/Python-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)  ### Frontend ![React](https://img.shields.io/badge/React-61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1572B6) ### Backend ![NodeJS](https://img.shields.io/badge/Node.js-green) ### Database ![MySQL](https://img.shields.io/badge/MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791)  ### AI / ML ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange) ![Keras](https://img.shields.io/badge/Keras-red) ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-orange) ![OpenCV](https://img.shields.io/badge/OpenCV-green) ![NumPy](https://img.shields.io/badge/NumPy-blue) ![Pandas](https://img.shields.io/badge/Pandas-purple) 
 
 ---
 
 ## 📌 Featured Projects
 
-### Event Management System
+### AAKAR – AI-Powered Soil & Crop Advisor Using Satellite & Ground Data Fusion
+Node • MangoDB • Flutter • AI • IoT
+
+### Event/Fest Management System
 React • Node • PostgreSQL
 
 ### Driver Drowsiness Detection
 Python • Deep Learning
 
 ### Code Review System
-React • Firebase
+React • Supabase
+
+### Bus Management System
+Python • MySQL
+
+### College Management System
+React • Node • MySQL
 
 ---
 
+## 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay83174&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay83174&layout=compact) --- ## 🏆 Achievements 🏅 Best Project Award — Academic Year 2025–2026 🏅 Developed and deployed production-ready academic solutions ---
+
 ## 📫 Connect With Me
 
-LinkedIn:
-YOUR_LINKEDIN_URL
-
-Email:
-YOUR_EMAIL
+## 📫 Connect With Me 🔗 LinkedIn: https://www.linkedin.com/in/sanjay-hl-kodnest-974mount/ 📧 Email: hlsanjay831@gmail.com ⭐ Building scalable and impactful software solutions
