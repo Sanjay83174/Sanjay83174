@@ -31,8 +31,6 @@ Passionate about building scalable web applications and solving real-world probl
 ![Java](https://img.shields.io/badge/Java-orange)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-00599C)
 
 ### Frontend
 
@@ -48,7 +46,6 @@ Passionate about building scalable web applications and solving real-world probl
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![Supabase](https://img.shields.io/badge/Supabase-green)
 
 ### AI / ML
@@ -127,4 +124,3 @@ hlsanjay831@gmail.com
 ---
 
 ⭐ Building scalable and impactful software solutions
-```
