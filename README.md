@@ -44,8 +44,40 @@ React • Node • MySQL
 
 ---
 
-## 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay83174&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay83174&layout=compact) --- ## 🏆 Achievements 🏅 Best Project Award — Academic Year 2025–2026 🏅 Developed and deployed production-ready academic solutions ---
+```md
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay83174&show_icons=true&theme=default" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay83174&layout=compact" />
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Best Project Award — Academic Year 2025–2026  
+
+🏅 Developed and deployed production-ready academic solutions  
+
+---
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me 🔗 LinkedIn: https://www.linkedin.com/in/sanjay-hl-kodnest-974mount/ 📧 Email: hlsanjay831@gmail.com ⭐ Building scalable and impactful software solutions
+🔗 LinkedIn  
+https://www.linkedin.com/in/sanjay-hl-kodnest-974mount/
+
+📧 Email  
+hlsanjay831@gmail.com
+
+⭐ Building scalable and impactful software solutions
+
+```
+
